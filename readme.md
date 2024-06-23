@@ -8,6 +8,7 @@ Make sure you have the following installed on your system:
 
 - Node.js (with npm)
 - Python (with pip)
+- OpenAI API Key in .env file
 
 ## Installation
 
