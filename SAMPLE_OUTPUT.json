@@ -1,0 +1,62 @@
+{
+    "member_info": {
+        "summary": {
+            "former_name": "Morgan, Gillian Mary (used until: 15 Jul 2001 )",
+            "gender": "Female",
+            "languages_spoken": "English",
+            "education": "McMaster University, 2001"
+        },
+        "practice_information": {
+            "primary_location_of_practice": {
+                "clinic_name": "Ramblewood Medical Clinic",
+                "unit": "Unit 101",
+                "address": "14 Ramblewood Drive",
+                "city": "Wasaga Beach",
+                "postal_code": "L9Z 0C4",
+                "phone": "(705) 429-8270",
+                "fax": "(705) 429-7611",
+                "electoral_district": "05"
+            }
+        },
+        "hospital_privileges": {
+            "hospital": "Collingwood General and Marine Hospital",
+            "location": "Collingwood"
+        },
+        "specialties": {
+            "specialty": "Family Medicine",
+            "issued_on": "Effective: 28 Oct 2003",
+            "type": "CFPC Specialist"
+        },
+        "terms_and_conditions": "Dr. GILLIAN MARY BRAKEL may practise only in the areas of medicine in which Dr. BRAKEL is educated and experienced.",
+        "postgraduate_training": [
+            {
+                "institution": "McMaster University",
+                "start_date": "01 Jul 2001",
+                "end_date": "30 Jun 2002",
+                "program": "PostGrad Yr 1 - Family Medicine"
+            },
+            {
+                "institution": "McMaster University",
+                "start_date": "01 Jul 2002",
+                "end_date": "30 Jun 2003",
+                "program": "PostGrad Yr 2 - Family Medicine"
+            },
+            {
+                "institution": "McMaster University",
+                "start_date": "01 Jul 2003",
+                "end_date": "31 Dec 2003",
+                "program": "PostGrad Yr 2 - Family Medicine"
+            }
+        ],
+        "registration_history": [
+            {
+                "action": "First certificate of registration issued: Postgraduate Education Certificate",
+                "issue_date": "Effective: 01 Jul 2001"
+            },
+            {
+                "action": "Transfer of class of registration to: Independent Practice Certificate",
+                "issue_date": "Effective: 29 Oct 2003"
+            }
+        ]
+    }
+}

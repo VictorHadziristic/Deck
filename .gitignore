@@ -1,0 +1,5 @@
+Default/
+.env
+venv/
+screenshot.jpg
+node_modules
